@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.AssemblyInfo.cs
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/REST/bin/Debug/net6.0/REST
+/Users/thatguy/code/C#/REST/bin/Debug/net6.0/REST.deps.json
+/Users/thatguy/code/C#/REST/bin/Debug/net6.0/REST.runtimeconfig.json
+/Users/thatguy/code/C#/REST/bin/Debug/net6.0/REST.dll
+/Users/thatguy/code/C#/REST/bin/Debug/net6.0/REST.pdb
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.dll
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/refint/REST.dll
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.pdb
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/REST.genruntimeconfig.cache
+/Users/thatguy/code/C#/REST/obj/Debug/net6.0/ref/REST.dll
